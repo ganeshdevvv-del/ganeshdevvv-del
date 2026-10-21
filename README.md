@@ -28,16 +28,38 @@ Welcome to my GitHub profile! 🚀
 If you like my projects, feel free to star ⭐ the repositories.
 
 ---
-## 📊 GitHub Statistics
+
+### 🗓️ Contribution Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshdevvv-del&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdevvv-del&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshdevvv-del&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
 </p>
 
+### 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshdevvv-del&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ganeshdevvv-del&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdevvv-del&layout=compact&hide_border=true&theme=transparent"
+    alt="Most Used Languages"
+    height="180"
+  />
 </p>
+
+### 📅 Contribution History
+
+[![GitHub Contributions](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=ganeshdevvv-del&theme=dark&size=large)](https://github.com/ganeshdevvv-del)
+
+🔗 [View My GitHub Profile and Contribution History](https://github.com/ganeshdevvv-del)
+
 ---
 
 ## 📫 Connect With Me
