@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀
 
 **GitHub:** [@myganesh2004](https://github.com/myganesh2004-netizen)
 
-**Total Projects Listed:** 5
+**Total Projects Listed**
 
 <table>
 <tr>
@@ -22,6 +22,7 @@ Welcome to my GitHub profile! 🚀
 | 4 | [TailWind_first-web](https://github.com/ganeshdevvv-del/TailWind_first-web) | [Demo](https://ganeshdevvv-del.github.io/TailWind_first-web/) |
 | 5 | [ClickTheBox](https://github.com/ganeshdevvv-del/ClickTheBox) | [Demo](https://ganeshdevvv-del/ClickTheBox/) |
 | 6 | [Calculator](https://github.com/ganeshdevvv-del/Calculator) | [Demo](https://ganeshdevvv-del/Calculator/) |
+| 7 | [To-DO-App](https://github.com/ganeshdevvv-del/ToDo_App) | [Demo](https://github.com/ganeshdevvv-del/ToDo_App/) |
 
 [View All Repositories →](https://github.com/ganeshdevvv-del?tab=repositories)
 
