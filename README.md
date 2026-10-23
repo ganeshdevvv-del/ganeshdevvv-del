@@ -40,20 +40,18 @@ If you like my projects, feel free to star ⭐ the repositories.
   />
 </p>
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ganeshdevvv-del&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdevvv-del&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-    height="180"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshdevvv-del&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdevvv-del&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshdevvv-del&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity"/>
+</p>
+
+---
 
 ### 📅 Contribution History
 
