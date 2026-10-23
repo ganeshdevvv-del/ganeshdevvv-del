@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 📂 My Projects
 
-**GitHub:** [@myganesh2004]\([https://github.com/myganesh2004-netizen](https://github.com/myganesh2004-netizen))
+**GitHub:** [@myganesh2004](https://github.com/myganesh2004-netizen)
 
 **Total Projects Listed:** 5
 
