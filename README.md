@@ -15,7 +15,8 @@ Welcome to my GitHub profile! 🚀
 | 3 | [QuizGame](https://github.com/ganeshdevvv-del/QuizGame) | [Live Demo](https://ganeshdevvv-del.github.io/QuizGame/) |
 | 4 | [TailWind_first-web](https://github.com/ganeshdevvv-del/TailWind_first-web) | [Live Demo](https://ganeshdevvv-del.github.io/TailWind_first-web/) |
 | 5 | [ClickTheBox](https://github.com/ganeshdevvv-del/ClickTheBox) | [Live Demo](https://ganeshdevvv-del.github.io/ClickTheBox/) |
-| 6 | 
+| 6 | [Calculator](https://github.com/ganeshdevvv-del/Calculator) | [Live Demo](https://ganeshdevvv-del.github.io/Calculator/) |
+| 7 | ... 
 
 ---
 
