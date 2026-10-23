@@ -1,8 +1,16 @@
+# 👋 Hi, I'm Ganesh!
+
+Welcome to my GitHub profile! 🚀
+
 ## 📂 My Projects
+
+**GitHub:** [@myganesh2004]\([https://github.com/myganesh2004-netizen](https://github.com/myganesh2004-netizen))
+
+**Total Projects Listed:** 5
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 My Repositories
 
@@ -34,4 +42,3 @@
 </tr>
 </table>
 
----
