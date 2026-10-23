@@ -2,11 +2,15 @@
 
 Welcome to my GitHub profile! 🚀
 
-## 📂 My Projects
+## 📂 My Projects & GitHub Stats
 
-**GitHub:** [@myganesh2004](https://github.com/myganesh2004-netizen)
+<table>
+  <tr>
+    <!-- LEFT COLUMN: Projects Table -->
+    <td width="55%" valign="top">
 
-**Total Projects Listed:** 5
+**GitHub:** [@myganesh2004](https://github.com/myganesh2004-netizen)  
+**Total Projects Listed:** 6
 
 | # | Repository Name | Live Link |
 |---|---|---|
@@ -16,17 +20,24 @@ Welcome to my GitHub profile! 🚀
 | 4 | [TailWind_first-web](https://github.com/ganeshdevvv-del/TailWind_first-web) | [Live Demo](https://ganeshdevvv-del.github.io/TailWind_first-web/) |
 | 5 | [ClickTheBox](https://github.com/ganeshdevvv-del/ClickTheBox) | [Live Demo](https://ganeshdevvv-del.github.io/ClickTheBox/) |
 | 6 | [Calculator](https://github.com/ganeshdevvv-del/Calculator) | [Live Demo](https://ganeshdevvv-del.github.io/Calculator/) |
-| 7 | ... 
 
----
-
-## 🌐 Explore More
+<br>
 
 🔗 [View All My Repositories](https://github.com/ganeshdevvv-del?tab=repositories)
 
-⭐ Thanks for visiting my profile!
+    </td>
+    <!-- RIGHT COLUMN: GitHub Stats -->
+    <td width="45%" valign="top" align="center">
 
-If you like my projects, feel free to star ⭐ the repositories.
+<img src="https://github-readme-stats.vercel.app/api?username=ganeshdevvv-del&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" width="100%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdevvv-del&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" width="100%" />
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,21 +48,6 @@ If you like my projects, feel free to star ⭐ the repositories.
     src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshdevvv-del&theme=github-compact&hide_border=true&area=true"
     alt="GitHub Contribution Activity"
     width="100%"
-  />
-</p>
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ganeshdevvv-del&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdevvv-del&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-    height="180"
   />
 </p>
 
@@ -79,5 +75,3 @@ If you like my projects, feel free to star ⭐ the repositories.
     <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
----
-
